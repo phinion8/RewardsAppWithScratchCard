@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alatsi</item>
+        <item>@font/basic</item>
+        <item>@font/capriola</item>
+        <item>@font/lilita_one</item>
+        <item>@font/open_sans_semibold</item>
+    </array>
+</resources>
