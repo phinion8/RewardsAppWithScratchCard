@@ -47,6 +47,5 @@ dependencies {
     implementation 'androidx.compose.material:material:1.1.1'
     implementation 'com.github.AnupKumarPanwar:ScratchView:1.9'
     implementation 'com.github.f0ris.sweetalert:library:1.6.2'
-    implementation files('/libs/unity-ads.aar')
-
+    implementation files('libs/unity-ads.aar')
 }
